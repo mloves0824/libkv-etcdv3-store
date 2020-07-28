@@ -1,4 +1,4 @@
-module github.com/smallnest/libkv-etcdv3-store
+module github.com/mloves0824/libkv-etcdv3-store
 
 go 1.13
 
